@@ -1,0 +1,7 @@
+cuddly\_octo\_funicular.utils package
+=====================================
+
+.. automodule:: cuddly_octo_funicular.utils
+   :members:
+   :undoc-members:
+   :show-inheritance:

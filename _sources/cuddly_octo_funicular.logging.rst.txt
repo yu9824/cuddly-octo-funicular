@@ -1,0 +1,7 @@
+cuddly\_octo\_funicular.logging package
+=======================================
+
+.. automodule:: cuddly_octo_funicular.logging
+   :members:
+   :undoc-members:
+   :show-inheritance:

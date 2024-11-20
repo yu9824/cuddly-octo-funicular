@@ -1,0 +1,16 @@
+cuddly\_octo\_funicular package
+===============================
+
+.. automodule:: cuddly_octo_funicular
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Subpackages
+-----------
+
+.. toctree::
+   :maxdepth: 4
+
+   cuddly_octo_funicular.logging
+   cuddly_octo_funicular.utils
