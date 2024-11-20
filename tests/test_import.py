@@ -2,5 +2,5 @@
 
 
 def test_import():
-    import python_template.logging
-    import python_template.utils
+    import cuddly_octo_funicular.logging
+    import cuddly_octo_funicular.utils

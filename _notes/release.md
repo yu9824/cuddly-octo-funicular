@@ -5,7 +5,7 @@
 ## ソースの作成
 
 ```bash
-sphinx-apidoc -f -o ./docs_src ./src/python_template --module-first    # 'python_template'部分は適宜変更
+sphinx-apidoc -f -o ./docs_src ./src/cuddly_octo_funicular --module-first    # 'cuddly_octo_funicular'部分は適宜変更
 ```
 
 ## コミット
